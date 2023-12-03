@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr. Igor Deyneko.
-- 👀 I’m interested in gene regulation and bioinformatics in general.
-- 📫 How to reach me - check my publications and find my email
+- 👀 I’m interested in gene regulation, statistics in biology and bioinformatics in general.
+- 📫 How to reach me - check my publications (https://pubmed.ncbi.nlm.nih.gov/?term=Deyneko+IV&sort=date) and write here igor.deyneko@inbox.ru
 
 <!---
 Deyneko/Deyneko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
